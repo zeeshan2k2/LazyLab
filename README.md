@@ -11,6 +11,15 @@ This is not a production app. It is a controlled environment built to explore Sw
 including view creation, diffing, identity, and state-driven updates.
 </p>
 
+<h2>Notes</h2>
+
+<p>
+Detailed learning notes and experiments can be found here:<br>
+<a href="https://secretive-fascinator-c6c.notion.site/8-Lazy-Containers-LazyVStack-LazyHStack-LazyVGrid-LazyHGrid-330d7fcea352802987e5fbd47c5cf061?source=copy_link">
+SwiftUI Lazy Containers Notes (Notion)
+</a>
+</p>
+
 ## Screenshot
 
 <p align="center">
